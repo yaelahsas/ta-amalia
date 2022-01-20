@@ -1,4 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:ta_aprillia/dashboard_affair.dart';
+import 'package:ta_aprillia/dashboard_petugas.dart';
+import 'package:ta_aprillia/halaman_barang_masuk.dart';
+
+import 'login_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,7 +29,8 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      debugShowCheckedModeBanner: false,
+      home: BarangMasuk(),
     );
   }
 }
