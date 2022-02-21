@@ -4,6 +4,7 @@ import 'package:ta_aprillia/dashboard_petugas.dart';
 import 'package:ta_aprillia/halaman_barang_masuk.dart';
 
 import 'login_page.dart';
+import 'tambah_barang_masuk.dart';
 
 void main() {
   runApp(const MyApp());
@@ -30,7 +31,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      home: BarangMasuk(),
+      home: const TambahBarang(),
     );
   }
 }

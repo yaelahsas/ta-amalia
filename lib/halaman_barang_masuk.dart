@@ -117,115 +117,133 @@ class _BarangMasukState extends State<BarangMasuk> {
                             DataCell(Text('Team Lead ')),
                           ],
                         ),
-                         DataRow(
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
                             DataCell(Text('Team Lead ')),
                           ],
-                        ), DataRow(
+                        ),
+                        DataRow(
                           cells: <DataCell>[
                             DataCell(Text('Deepak')),
                             DataCell(Text('29')),
